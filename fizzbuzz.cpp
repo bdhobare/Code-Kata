@@ -7,7 +7,7 @@
 using namespace std;
 //Forward declaration
 string fizzbuzz(int number);
-int main(int argc,char* arv[]){
+int main(int argc,char* arvg[]){
     int input;
     //get input,can be file or cin
     cout<<"Enter a number:";
